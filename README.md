@@ -7,6 +7,6 @@ The following project involves the details surrounding a plan for a time-optimal
 
 <div align="center">
   <kbd>
-    <img alt="F22 Raptor" width="200" height="200" src="./images/figure1.png"style="border: 3px solid rgb(106, 255, 0); border-radius: 10px;"/>
+    <img alt="Figure 1" width="200" height="200" src="./images/figure1.png"style="border: 3px solid rgb(106, 255, 0); border-radius: 10px;"/>
   </kbd>
 </div>
