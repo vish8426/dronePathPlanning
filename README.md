@@ -6,7 +6,7 @@ The following project involves the details surrounding a plan for a time-optimal
 
 <div align="center">
 
- *Figure 1*
+ *Figure 1: Wind Field Vector Space*
  
   <kbd>
     <img alt="Figure 1" width="500" height="500" src="./images/figure1.PNG"style="border: 3px solid rgb(106, 255, 0); border-radius: 10px;"/>
